@@ -3,6 +3,8 @@ paperspace
 
 Based on "Price Comparison Of Paperspace And Competing Cloud Providers" at https://www.youtube.com/watch?v=9y4vkCoKgEI
 
+Based on "Cloud Rendering with Paperspace" at https://medium.com/@alarmclockfilms/cloud-rendering-with-paperspace-610908eea3b2
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
