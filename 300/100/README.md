@@ -2,6 +2,8 @@
 
 ## 100 - Select an OS template
 
+We name the machine **After Effects**.
+
 We select **Windows 10 (Licensed)**; running as Windows Server 2022 in desktop mode.
 
 ## 200 - Machine
@@ -45,3 +47,5 @@ GPU+ $0.45/hour
 ## 1000 - Create Machine
 
 Click **Create Machine**
+
+The machine **After Effects** can now be viewed and started / stopped at https://console.paperspace.com/ at the tab **Machines**.
