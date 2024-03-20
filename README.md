@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+paperspace
+# Paperspace
 
-Based on "ABC" at https://www.abc.com/
+Based on "Price Comparison Of Paperspace And Competing Cloud Providers" at https://www.youtube.com/watch?v=9y4vkCoKgEI
 
 ## 100 - Introduction
 
