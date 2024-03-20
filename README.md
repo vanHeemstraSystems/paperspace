@@ -1,9 +1,11 @@
 paperspace
-# Paperspace
+# Paperspace (now owned by Digital Ocean)
 
 Based on "Price Comparison Of Paperspace And Competing Cloud Providers" at https://www.youtube.com/watch?v=9y4vkCoKgEI
 
 Based on "Cloud Rendering with Paperspace" at https://medium.com/@alarmclockfilms/cloud-rendering-with-paperspace-610908eea3b2
+
+Based on "Getting Started" at https://docs.digitalocean.com/products/paperspace/machines/getting-started/run-windows-app/
 
 ## 100 - Introduction
 
